@@ -1,0 +1,63 @@
+// Place all the styles related to the homes controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+html {
+  height: 100%;
+}
+
+body{
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+
+* {
+  margin:0;
+	padding:0;
+}
+
+a {
+  text-decoration: none;
+  
+}
+
+header{
+  width: 100%;
+  height: 70px;
+}
+
+.header_line{
+  width: 100%;
+  height: 100%;
+  background-color: slategray;
+}
+
+main{
+  width: 100%;
+  height: 2000px;
+  background-color: whitesmoke;
+}
+
+.space{
+  width: 100%;
+  height: 100px;
+  background-color: whitesmoke;
+}
+
+.contents{
+  width: 80%;
+  height: 1800px;
+  margin: 0 10% 10% 10%;
+  background-color: white;
+}
+
+footer{
+  width: 100%;
+  height: 100px;
+}
+
+.footer_line{
+  width: 100%;
+  height: 100%;
+  background-color: slategray;
+}

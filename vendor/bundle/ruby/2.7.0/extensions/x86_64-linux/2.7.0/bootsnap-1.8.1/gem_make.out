@@ -1,0 +1,21 @@
+current directory: /mnt/c/Users/sougo/work_space/workspace/yatoi_app/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.8.1/ext/bootsnap
+/mnt/c/Users/sougo/work_space/.rbenv/versions/2.7.1/bin/ruby -I /mnt/c/Users/sougo/work_space/.rbenv/versions/2.7.1/lib/ruby/2.7.0 -r ./siteconf20210915-3555-6ovgj3.rb extconf.rb
+creating Makefile
+
+current directory: /mnt/c/Users/sougo/work_space/workspace/yatoi_app/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.8.1/ext/bootsnap
+make "DESTDIR=" clean
+make: Warning: File 'Makefile' has modification time 0.37 s in the future
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+current directory: /mnt/c/Users/sougo/work_space/workspace/yatoi_app/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.8.1/ext/bootsnap
+make "DESTDIR="
+make: Warning: File 'Makefile' has modification time 0.34 s in the future
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+current directory: /mnt/c/Users/sougo/work_space/workspace/yatoi_app/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.8.1/ext/bootsnap
+make "DESTDIR=" install
+make: Warning: File 'bootsnap.so' has modification time 0.36 s in the future
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20210915-3555-r5poam/bootsnap
+make: warning:  Clock skew detected.  Your build may be incomplete.

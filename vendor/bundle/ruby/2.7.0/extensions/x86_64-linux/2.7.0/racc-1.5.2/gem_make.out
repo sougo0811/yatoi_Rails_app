@@ -1,0 +1,22 @@
+current directory: /mnt/c/Users/sougo/work_space/workspace/yatoi_app/vendor/bundle/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
+/mnt/c/Users/sougo/work_space/.rbenv/versions/2.7.1/bin/ruby -I /mnt/c/Users/sougo/work_space/.rbenv/versions/2.7.1/lib/ruby/2.7.0 -r ./siteconf20210915-3555-y82k9u.rb extconf.rb
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /mnt/c/Users/sougo/work_space/workspace/yatoi_app/vendor/bundle/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR=" clean
+make: Warning: File 'Makefile' has modification time 0.35 s in the future
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+current directory: /mnt/c/Users/sougo/work_space/workspace/yatoi_app/vendor/bundle/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR="
+make: Warning: File 'Makefile' has modification time 0.33 s in the future
+compiling cparse.c
+linking shared-object racc/cparse.so
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+current directory: /mnt/c/Users/sougo/work_space/workspace/yatoi_app/vendor/bundle/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR=" install
+make: Warning: File 'cparse.so' has modification time 0.36 s in the future
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20210915-3555-1hfnvls/racc
+make: warning:  Clock skew detected.  Your build may be incomplete.

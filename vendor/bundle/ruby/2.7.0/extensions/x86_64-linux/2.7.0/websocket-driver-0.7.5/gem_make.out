@@ -1,0 +1,21 @@
+current directory: /mnt/c/Users/sougo/work_space/workspace/yatoi_app/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/mnt/c/Users/sougo/work_space/.rbenv/versions/2.7.1/bin/ruby -I /mnt/c/Users/sougo/work_space/.rbenv/versions/2.7.1/lib/ruby/2.7.0 -r ./siteconf20210915-3555-1b9hcyf.rb extconf.rb
+creating Makefile
+
+current directory: /mnt/c/Users/sougo/work_space/workspace/yatoi_app/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR=" clean
+make: Warning: File 'Makefile' has modification time 0.36 s in the future
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+current directory: /mnt/c/Users/sougo/work_space/workspace/yatoi_app/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR="
+make: Warning: File 'Makefile' has modification time 0.34 s in the future
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+current directory: /mnt/c/Users/sougo/work_space/workspace/yatoi_app/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR=" install
+make: Warning: File 'websocket_mask.so' has modification time 0.36 s in the future
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20210915-3555-9cfjl9
+make: warning:  Clock skew detected.  Your build may be incomplete.
