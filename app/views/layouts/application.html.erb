@@ -9,9 +9,14 @@
 
     <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
     <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
+    <%= stylesheet_link_tag 'homes' %>
   </head>
 
   <body>
+    <%= notice %>
+    <%= alert %>
+    <header><div class="header_line"></div></header>
     <%= yield %>
+    <footer><div class="footer_line"></div></footer>
   </body>
 </html>
